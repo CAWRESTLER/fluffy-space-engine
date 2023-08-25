@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluffy-space-engine/static/css/main.f87db60f.css",
+    "main.js": "/fluffy-space-engine/static/js/main.8a52f6a3.js",
+    "static/js/496.0320d045.chunk.js": "/fluffy-space-engine/static/js/496.0320d045.chunk.js",
+    "index.html": "/fluffy-space-engine/index.html",
+    "main.f87db60f.css.map": "/fluffy-space-engine/static/css/main.f87db60f.css.map",
+    "main.8a52f6a3.js.map": "/fluffy-space-engine/static/js/main.8a52f6a3.js.map",
+    "496.0320d045.chunk.js.map": "/fluffy-space-engine/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87db60f.css",
+    "static/js/main.8a52f6a3.js"
+  ]
+}
